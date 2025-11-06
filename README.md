@@ -1,4 +1,4 @@
-🚜 FarmTech Solutions - Projeto Consolidado (Fase 7)
+# 🚜 FarmTech Solutions - Projeto Consolidado (Fase 7)
 
 Este projeto representa a consolidação de todas as 7 fases da disciplina, integrando um sistema completo de gestão para o agronegócio. O sistema utiliza um dashboard centralizado (Streamlit) para acionar e monitorar diferentes microsserviços, incluindo cálculos de manejo, irrigação inteligente baseada em IoT e análise de saúde da plantação com Visão Computacional.
 
@@ -75,11 +75,12 @@ Screenshot da Assinatura de E-mail
 Um vídeo de até 10 minutos foi gravado apresentando todas as funcionalidades consolidadas do projeto, desde a Fase 1 até a 7.
 
 
-Link do Vídeo:
+## Link do Vídeo:
 
 
-## Git Hub
--[Link_repositorio_Git_Hub]-(https://github.com/SKamacorde/Cap-1---FarmTech-na-era-da-cloud-computing)
+## Link Git Hub:
+https://github.com/SKamacorde/Cap-1---A-consolida-o-de-um-sistema
+
 
 
 
