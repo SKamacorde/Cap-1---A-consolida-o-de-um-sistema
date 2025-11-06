@@ -4,7 +4,7 @@ Este projeto representa a consolidação de todas as 7 fases da disciplina, inte
 
 👥 Integrantes do Grupo
 
-| Nome | RM | |
+| Nome | RM |
 |---|---|---|
 | Daniele Antonieta Garisto Dias | RM565106|
 | Leandro Augusto Jardim da Cunha | RM561395|
@@ -76,5 +76,6 @@ Um vídeo de até 10 minutos foi gravado apresentando todas as funcionalidades c
 
 
 Link do Vídeo:
+
 
 
