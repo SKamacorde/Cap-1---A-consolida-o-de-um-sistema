@@ -4,15 +4,13 @@ Este projeto representa a consolidação de todas as 7 fases da disciplina, inte
 
 👥 Integrantes do Grupo
 
-Daniele Antonieta Garisto Dias	RM565106
-
-Guilherme Ribeiro Slaviero  RM561757
-
-João Victor Viana de Sousa	RM565136
-
-Leandro Augusto Jardim da Cunha	RM561395
-
-Luiz Eduardo da Silva	RM561701
+| Nome | RM | |
+|---|---|---|
+| Daniele Antonieta Garisto Dias | RM565106 |
+| Leandro Augusto Jardim da Cunha | RM561395 |
+| Luiz Eduardo da Silva | RM561701 |
+| João Victor Viana de Sousa | RM565136 |
+| Guilherme Ribeiro Slaviero | RM561757 |
 
 
 🚀 Como Executar o Projeto
@@ -78,3 +76,4 @@ Um vídeo de até 10 minutos foi gravado apresentando todas as funcionalidades c
 
 
 Link do Vídeo:
+
