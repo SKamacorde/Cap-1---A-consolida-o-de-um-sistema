@@ -5,9 +5,13 @@ Este projeto representa a consolidação de todas as 7 fases da disciplina, inte
 👥 Integrantes do Grupo
 
 Daniele Antonieta Garisto Dias	RM565106
+
 Guilherme Ribeiro Slaviero  RM561757
+
 João Victor Viana de Sousa	RM565136
+
 Leandro Augusto Jardim da Cunha	RM561395
+
 Luiz Eduardo da Silva	RM561701
 
 
@@ -71,5 +75,6 @@ Screenshot da Assinatura de E-mail
 🎥 Vídeo de Apresentação (YouTube)
 
 Um vídeo de até 10 minutos foi gravado apresentando todas as funcionalidades consolidadas do projeto, desde a Fase 1 até a 7.
+
 
 Link do Vídeo:
