@@ -1,0 +1,11 @@
+streamlit
+pandas
+scikit-learn
+# Bibliotecas da Fase 3
+dash
+plotly
+# Bibliotecas da Fase 6
+ultralytics
+opencv-python-headless
+# Biblioteca da Fase 5 (Alerta AWS)
+boto3
